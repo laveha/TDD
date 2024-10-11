@@ -1,0 +1,6 @@
+D:\Проекты\TDD.Proverka\Proverka\bin\Debug\Proverka.dll
+D:\Проекты\TDD.Proverka\Proverka\bin\Debug\Proverka.pdb
+D:\Проекты\TDD.Proverka\Proverka\obj\Debug\Proverka.csproj.AssemblyReference.cache
+D:\Проекты\TDD.Proverka\Proverka\obj\Debug\Proverka.csproj.CoreCompileInputs.cache
+D:\Проекты\TDD.Proverka\Proverka\obj\Debug\Proverka.dll
+D:\Проекты\TDD.Proverka\Proverka\obj\Debug\Proverka.pdb
